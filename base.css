@@ -114,3 +114,8 @@ h6 {
   color: var(--black);
   text-shadow: none;
 }
+
+.open {
+  border-radius: 50%;
+  transition: all 0.2s;
+}
